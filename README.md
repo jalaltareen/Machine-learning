@@ -27,15 +27,15 @@ K-Means Clustering - Iris Dataset: Clustering unlabelled flowers of k different 
 An Unsupervised Approach to MNIST Dataset: Clustering of handwritten digits (MNIST) is performed assuming we don't know how many different types of digits there are.
 # Deep Learning
 ## - Multilayer Perceptron (MLP)
-    -Multilayer Perceptron - MNIST Dataset: Classifying handwritten digits (MNIST) by means of neural networks. Different multilayer perceptron architechtures and optimizers are used and compared. tensorflow.keras API used.
+   - Multilayer Perceptron - MNIST Dataset: Classifying handwritten digits (MNIST) by means of neural networks. Different multilayer perceptron architechtures and optimizers are used and compared. tensorflow.keras API used.
 ## - Convolutional Neural Networks (CNN)
-    - Convolutional Neural Networks - MNIST dataset: Classifying the handwritten digits of the MNIST dataset, this time through convolutional neural networks. Two different optimizers are used under the same architechture. tensorflow.keras API used.
+   - Convolutional Neural Networks - MNIST dataset: Classifying the handwritten digits of the MNIST dataset, this time through convolutional neural networks. Two different optimizers are used under the same architechture. tensorflow.keras API used.
     - Convolutional Neural Networks - CIFAR-100 dataset: Being updated!
 ## - Autoencoders
-    - Convolutional Autoencoders - MNIST dataset: Being updated!
-    - Convolutional Autoencoders - Tiny ImageNet dataset: Being updated!
+   - Convolutional Autoencoders - MNIST dataset: Being updated!
+   - Convolutional Autoencoders - Tiny ImageNet dataset: Being updated!
 # Others
-## - Data Augmentation on Images: The amount of data to train a model might not be enough to properly generalize the features of the classes to learn. Here we show how data augmentation (rotations, translations and noise) performed over the MNIST Dataset is necessary if we want a more general, robust model.
+ - Data Augmentation on Images: The amount of data to train a model might not be enough to properly generalize the features of the classes to learn. Here we show how data augmentation (rotations, translations and noise) performed over the MNIST Dataset is necessary if we want a more general, robust model.
 
 # About me:
 Jalal Tareen (27 y/o). Communication Engineer (M.Sc.) passionate about Machine Learning, Data Analysis and Autonomous Driving. Further information about myself here.
