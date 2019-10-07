@@ -16,15 +16,15 @@ Personal Projects
 
 # Supervised and Unsupervised Learning
 ## - Regression Models
-Linear Regression - Boston Housing Dataset: Prediction of the median value of a house in Boston using a dataset with information about the housing in the city. Simple and multiple linear regressions will be presented and compared to scikit-learn regressions.
-Polynomial Regression - Insurance Claims Dataset: Predicting the number of insurance claims in a company by means of the information collected from previous years. The method presented will be compared to the Scikit-Learn implementation.
-Logistic Regression - Breast Cancer Wisconsin Dataset: The Breast Cancer Wisconsin dataset contains biophyisical information about different samples of benign and malignant cells. A logistic regression is used to predict whether a cell is of one type or another, based on its characteristic.
-Regression Models - MNIST Dataset: Classifying handwritten numbers (MNIST) by means of different types of regression. The accuracy between methods can be compared.
+   - Linear Regression - Boston Housing Dataset: Prediction of the median value of a house in Boston using a dataset with information about the housing in the city. Simple and multiple linear regressions will be presented and compared to scikit-learn regressions.
+   - Polynomial Regression - Insurance Claims Dataset: Predicting the number of insurance claims in a company by means of the information collected from previous years. The method presented will be compared to the Scikit-Learn implementation.
+   - Logistic Regression - Breast Cancer Wisconsin Dataset: The Breast Cancer Wisconsin dataset contains biophyisical information about different samples of benign and malignant cells. A logistic regression is used to predict whether a cell is of one type or another, based on its characteristic.
+   - Regression Models - MNIST Dataset: Classifying handwritten numbers (MNIST) by means of different types of regression. The accuracy between methods can be compared.
 ## - K-Nearest Neighbors
-KNN Classification - Wine Dataset: Classifying wines of unknown type based on the similarity (nearest neighbor) with other labelled wines.
+   -  KNN Classification - Wine Dataset: Classifying wines of unknown type based on the similarity (nearest neighbor) with other labelled wines.
 ## - K-Means Clustering
-K-Means Clustering - Iris Dataset: Clustering unlabelled flowers of k different types. The optimal number of clusters k is also found.
-An Unsupervised Approach to MNIST Dataset: Clustering of handwritten digits (MNIST) is performed assuming we don't know how many different types of digits there are.
+   - K-Means Clustering - Iris Dataset: Clustering unlabelled flowers of k different types. The optimal number of clusters k is also found.
+   -An Unsupervised Approach to MNIST Dataset: Clustering of handwritten digits (MNIST) is performed assuming we don't know how many different types of digits there are.
 # Deep Learning
 ## - Multilayer Perceptron (MLP)
    - Multilayer Perceptron - MNIST Dataset: Classifying handwritten digits (MNIST) by means of neural networks. Different multilayer perceptron architechtures and optimizers are used and compared. tensorflow.keras API used.
