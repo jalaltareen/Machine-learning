@@ -25,7 +25,7 @@ Personal Projects
 ## - K-Means Clustering
    - [K-Means Clustering](https://github.com/jalaltareen/Machine-learning/blob/master/Codes_and_Datasets/05_K-Means-Clustering_Iris-Dataset.ipynb) - Iris Dataset: Clustering unlabelled flowers of k different types. The optimal number of clusters k is also found.
    
-   -[An Unsupervised Approach to MNIST Dataset](https://github.com/jalaltareen/Machine-learning/blob/master/Codes_and_Datasets/06_An-Unsupervised-Approach-to-MNIST.ipynb): Clustering of handwritten digits (MNIST) is performed assuming we don't know how many different types of digits there are.
+   - [An Unsupervised Approach to MNIST Dataset](https://github.com/jalaltareen/Machine-learning/blob/master/Codes_and_Datasets/06_An-Unsupervised-Approach-to-MNIST.ipynb): Clustering of handwritten digits (MNIST) is performed assuming we don't know how many different types of digits there are.
 # Deep Learning
 ## - Multilayer Perceptron (MLP)
    - [Multilayer Perceptron](https://github.com/jalaltareen/Machine-learning/blob/master/Codes_and_Datasets/08_MLP_MNIST.ipynb) - MNIST Dataset: Classifying handwritten digits (MNIST) by means of neural networks. Different multilayer perceptron architechtures and optimizers are used and compared. tensorflow.keras API used.
