@@ -24,12 +24,13 @@ Personal Projects
    -  [KNN Classification](https://github.com/jalaltareen/Machine-learning/blob/master/Codes_and_Datasets/04_KNN-Clasification_Wine-Dataset.ipynb) - Wine Dataset: Classifying wines of unknown type based on the similarity (nearest neighbor) with other labelled wines.
 ## - K-Means Clustering
    - [K-Means Clustering](https://github.com/jalaltareen/Machine-learning/blob/master/Codes_and_Datasets/05_K-Means-Clustering_Iris-Dataset.ipynb) - Iris Dataset: Clustering unlabelled flowers of k different types. The optimal number of clusters k is also found.
+   
    -[An Unsupervised Approach to MNIST Dataset](https://github.com/jalaltareen/Machine-learning/blob/master/Codes_and_Datasets/06_An-Unsupervised-Approach-to-MNIST.ipynb): Clustering of handwritten digits (MNIST) is performed assuming we don't know how many different types of digits there are.
 # Deep Learning
 ## - Multilayer Perceptron (MLP)
    - [Multilayer Perceptron](https://github.com/jalaltareen/Machine-learning/blob/master/Codes_and_Datasets/08_MLP_MNIST.ipynb) - MNIST Dataset: Classifying handwritten digits (MNIST) by means of neural networks. Different multilayer perceptron architechtures and optimizers are used and compared. tensorflow.keras API used.
 ## - Convolutional Neural Networks (CNN)
-   - Convolutional Neural Networks - MNIST dataset: Classifying the handwritten digits of the MNIST dataset, this time through convolutional neural networks. Two different optimizers are used under the same architechture. tensorflow.keras API used.
+   - [Convolutional Neural Networks - MNIST dataset:](https://github.com/jalaltareen/Machine-learning/blob/master/Codes_and_Datasets/10_CNN_MNIST.ipynb) Classifying the handwritten digits of the MNIST dataset, this time through convolutional neural networks. Two different optimizers are used under the same architechture. tensorflow.keras API used.
     - Convolutional Neural Networks - CIFAR-100 dataset: Being updated!
 ## - Autoencoders
    - Convolutional Autoencoders - MNIST dataset: Being updated!
