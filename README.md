@@ -16,18 +16,18 @@ Personal Projects
 
 # Supervised and Unsupervised Learning
 ## - Regression Models
-   - Linear Regression - Boston Housing Dataset: Prediction of the median value of a house in Boston using a dataset with information about the housing in the city. Simple and multiple linear regressions will be presented and compared to scikit-learn regressions.
-   - Polynomial Regression - Insurance Claims Dataset: Predicting the number of insurance claims in a company by means of the information collected from previous years. The method presented will be compared to the Scikit-Learn implementation.
-   - Logistic Regression - Breast Cancer Wisconsin Dataset: The Breast Cancer Wisconsin dataset contains biophyisical information about different samples of benign and malignant cells. A logistic regression is used to predict whether a cell is of one type or another, based on its characteristic.
-   - Regression Models - MNIST Dataset: Classifying handwritten numbers (MNIST) by means of different types of regression. The accuracy between methods can be compared.
+   - [Linear Regression](https://github.com/jalaltareen/Machine-learning/blob/master/Codes_and_Datasets/01_Linear-Regression_Boston-Housing-Dataset.ipynb) - Boston Housing Dataset: Prediction of the median value of a house in Boston using a dataset with information about the housing in the city. Simple and multiple linear regressions will be presented and compared to scikit-learn regressions.
+   - [Polynomial Regression](https://github.com/jalaltareen/Machine-learning/blob/master/Codes_and_Datasets/02_Polynomial-Regression_Insurance-Dataset.ipynb) - Insurance Claims Dataset: Predicting the number of insurance claims in a company by means of the information collected from previous years. The method presented will be compared to the Scikit-Learn implementation.
+   - [Logistic Regression](https://github.com/jalaltareen/Machine-learning/blob/master/Codes_and_Datasets/03_Logistic-Classification_Breast-Cancer-Wisconsin-Dataset.ipynb) - Breast Cancer Wisconsin Dataset: The Breast Cancer Wisconsin dataset contains biophyisical information about different samples of benign and malignant cells. A logistic regression is used to predict whether a cell is of one type or another, based on its characteristic.
+   - [Regression Models](https://github.com/jalaltareen/Machine-learning/blob/master/Codes_and_Datasets/07_Regression-Models_MNIST.ipynb) - MNIST Dataset: Classifying handwritten numbers (MNIST) by means of different types of regression. The accuracy between methods can be compared.
 ## - K-Nearest Neighbors
-   -  KNN Classification - Wine Dataset: Classifying wines of unknown type based on the similarity (nearest neighbor) with other labelled wines.
+   -  [KNN Classification](https://github.com/jalaltareen/Machine-learning/blob/master/Codes_and_Datasets/04_KNN-Clasification_Wine-Dataset.ipynb) - Wine Dataset: Classifying wines of unknown type based on the similarity (nearest neighbor) with other labelled wines.
 ## - K-Means Clustering
-   - K-Means Clustering - Iris Dataset: Clustering unlabelled flowers of k different types. The optimal number of clusters k is also found.
-   -An Unsupervised Approach to MNIST Dataset: Clustering of handwritten digits (MNIST) is performed assuming we don't know how many different types of digits there are.
+   - [K-Means Clustering](https://github.com/jalaltareen/Machine-learning/blob/master/Codes_and_Datasets/05_K-Means-Clustering_Iris-Dataset.ipynb) - Iris Dataset: Clustering unlabelled flowers of k different types. The optimal number of clusters k is also found.
+   -[An Unsupervised Approach to MNIST Dataset](https://github.com/jalaltareen/Machine-learning/blob/master/Codes_and_Datasets/06_An-Unsupervised-Approach-to-MNIST.ipynb): Clustering of handwritten digits (MNIST) is performed assuming we don't know how many different types of digits there are.
 # Deep Learning
 ## - Multilayer Perceptron (MLP)
-   - Multilayer Perceptron - MNIST Dataset: Classifying handwritten digits (MNIST) by means of neural networks. Different multilayer perceptron architechtures and optimizers are used and compared. tensorflow.keras API used.
+   - [Multilayer Perceptron](https://github.com/jalaltareen/Machine-learning/blob/master/Codes_and_Datasets/08_MLP_MNIST.ipynb) - MNIST Dataset: Classifying handwritten digits (MNIST) by means of neural networks. Different multilayer perceptron architechtures and optimizers are used and compared. tensorflow.keras API used.
 ## - Convolutional Neural Networks (CNN)
    - Convolutional Neural Networks - MNIST dataset: Classifying the handwritten digits of the MNIST dataset, this time through convolutional neural networks. Two different optimizers are used under the same architechture. tensorflow.keras API used.
     - Convolutional Neural Networks - CIFAR-100 dataset: Being updated!
